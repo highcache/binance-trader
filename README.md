@@ -28,7 +28,7 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 ## Support
 
-[https://www.binance.com/?ref=10701111](https://www.binance.com/?ref=10701111)
+[https://www.binance.com/?ref=10212892](https://www.binance.com/?ref=10212892)
 
 ## Requirements
 
