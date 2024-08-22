@@ -1,6 +1,6 @@
 # Binance Trader (RC 2)
 
-This is an experimental bot for auto trading the binance.com exchange. 
+This is an experimental bot for auto trading the binance.com exchange. WeChat dga95599
 
 ![Screenshot](https://github.com/yasinkuyu/binance-trader/blob/master/img/screenshot.png)
 
