@@ -6,9 +6,9 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 ## Configuration
 
-1. [Signup](https://www.binance.com/?ref=10701111) for Binance
+1. [Signup](https://www.binance.com/?ref=10212892) for Binance
 2. Enable Two-factor Authentication
-3. Go API Center, [Create New](https://www.binance.com/en/my/settings/api-management?ref=10701111) Api Key
+3. Go API Center, [Create New](https://www.binance.com/en/my/settings/api-management?ref=10212892) Api Key
 
         [✓] Read Info [✓] Enable Trading [X] Enable Withdrawals
 
@@ -28,7 +28,7 @@ This is an experimental bot for auto trading the binance.com exchange. [@yasinku
 
 ## Support
 
-[https://www.binance.com/?ref=10701111](https://www.binance.com/?ref=10701111)
+[https://www.binance.com/?ref=10701111](https://www.binance.com/?ref=10212892)
 
 ## Requirements
 
